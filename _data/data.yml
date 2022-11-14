@@ -3,8 +3,8 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: 歐陽東林 
@@ -32,14 +32,14 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
-          level: Native
+        - idiom: 英文
+          level: 流暢
 
-        - idiom: French
-          level: Professional
+        - idiom: 中文
+          level: 母語
 
-        - idiom: Spanish
-          level: Professional
+        - idiom: 
+          level: 
 
     interests:
       title: Interests
@@ -60,9 +60,9 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
+      - degree: 資訊工程學系
         university: 國立中山大學
-        time: 2011 - 2012
+        time: 2013/9 - 2017/6
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -71,17 +71,10 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree:
+        university: 
+        time: 
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
 experiences:
     title: Experiences
     info:

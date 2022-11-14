@@ -1,11 +1,11 @@
 #Update all the sections by editing the data.yml file inside _data folder.
 
 # Site Settings
-title: My Resume
+title: 歐陽東林 CV
 url: 'http://webjeda.com'
 
 #change it according to your repository name
-# disabling since we are using a custom domain
+#disabling since we are using a custom domain
 #baseurl: '/online-cv' 
 
 description: A beautiful Jekyll theme for creating resume
