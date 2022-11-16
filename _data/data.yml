@@ -38,9 +38,6 @@ sidebar:
         - idiom: 中文
           level: 母語
 
-        - idiom: 
-          level: 
-
     interests:
       title: Interests
       info:
@@ -54,21 +51,28 @@ sidebar:
           link:
 
 career-profile:
-    title: Career Profile
+    title: 經歷簡介
     summary: |
-      This is a test
+      中山資工系畢業，對於遊戲有高度熱忱。大四負責的專題是一個整合了自動控制、照護以及門禁的智慧家庭系統。畢業後在狂點軟體開發擁有三年
+      的 Unity 前端工作經驗，經手過的專案涵蓋 AR 、VR、體感互動以及展場大型展示裝置。AR 部分使用過 Vuforia 以及 ARCore。VR 部分使
+      用軟體 Unity，接觸過的硬體有 Oculus Rift 和 HTC Vive。體感互動則使用過 LeapMotion、Kinect 以及 Intel Realsense。
+      
+      狂點經歷結束後至 iStaging 擔任 Product Manager，並且從 0 開始規劃 3D 虛擬展間平台 METAmakeR，其中也有多項專案實作經驗，包含 2021 台灣新
+      南向展以及 2022 CES .... 等等。
+
+      平時興趣為聽古典樂以及研究遊戲設計。
 education:
-    title: Education
+    title: 學歷
     info:
       - degree: 資訊工程學系
         university: 國立中山大學
         time: 2013/9 - 2017/6
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
+          在系上擔任過系學會活動長，擔任活動長期間負責統籌、規劃及執行系上整年度的各項活動。負責統籌的活動包含系上運動會、迎新、資工系暑期營隊.....等等。
+          過程中學到專案統籌的經驗以及多人協作的事項分派，並且從每一次的活動過程中汲取不好的流程在之後的活動中改改進。
+          另外除了活動長外，也擔任過資工系上畢業生致詞代表。
+
+          
             - Bullet point
             - Bullet point
       - degree:
