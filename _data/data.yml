@@ -51,7 +51,7 @@ sidebar:
           link:
 
 career-profile:
-    title: 經歷簡介
+    title: 簡介
     summary: |
       中山資工系畢業，對於遊戲有高度熱忱。大四負責的專題是一個整合了自動控制、照護以及門禁的智慧家庭系統。畢業後在狂點軟體開發擁有三年
       的 Unity 前端工作經驗，經手過的專案涵蓋 AR 、VR、體感互動以及展場大型展示裝置。AR 部分使用過 Vuforia 以及 ARCore。VR 部分使
@@ -70,21 +70,22 @@ education:
         details: |
           在系上擔任過系學會活動長，擔任活動長期間負責統籌、規劃及執行系上整年度的各項活動。負責統籌的活動包含系上運動會、迎新、資工系暑期營隊.....等等。
           過程中學到專案統籌的經驗以及多人協作的事項分派，並且從每一次的活動過程中汲取不好的流程在之後的活動中改改進。
+
           另外除了活動長外，也擔任過資工系上畢業生致詞代表。
 
-          
-            - Bullet point
-            - Bullet point
+          畢業專題為使用樹莓派處理臉部辨識以及聯發科 LinkIt ONE 基板處理 arduino 控制項組合的智慧家庭系統。可處理門禁系統以及使用 app 控制家中家電。
+            - 系學會活動長
+            - 資工系畢業生致詞代表
       - degree:
         university: 
         time: 
         details: |
 experiences:
-    title: Experiences
+    title: 工作經歷
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Product Manager
+        time: 2021 - 在職中
+        company: iStaging 愛實境
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -97,20 +98,9 @@ experiences:
           architecto beatae vitae dicta sunt explicabo.
             - Bullet point
             - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+      - role: Unity 前端工程師
+        time: 2018 - 2021
+        company: Granden 狂點軟體開發
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -120,7 +110,7 @@ experiences:
             - Bullet point
             - Bullet point
 projects:
-    title: Projects
+    title: 專案
     intro: >
       You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
