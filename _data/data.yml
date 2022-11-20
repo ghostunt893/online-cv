@@ -94,9 +94,9 @@ experiences:
           規劃。
 
           工作期間大量使用 Postman 進行 api 測試驗證，MySQL 進行資料撈取以及 zapier 進行自動化流程整合。
-            - METAmakeR 平台
-            - CES，自行車展 PM
-            - Postman，MySQL，Zapier
+            - METAmakeR 平台。
+            - CES，自行車展 PM。
+            - Postman，MySQL，Zapier。
 
       - role: Unity 前端工程師
         time: 2018/1 - 2020/11
@@ -109,75 +109,47 @@ experiences:
             - 緯創醫療合作製作基於 IntelRealsense 和 NuitrackSDK 老人復健體感遊戲。
             - VR 音樂節奏遊戲：I’m ready to fly。
 projects:
-    title: 專案
+    title: 工作專案
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      下列列出經手專案以及成品連結
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: METAmakeR (iStaging)
+        link: "https://viewer.metamaker.istaging.com/en/ff80808181233081018184d0380704fa"
+        tagline: "NFT 示範展間，其中包含 Avatar 行走以及多人互動。"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: AR 遠距醫療 (Granden)
+        link: "https://youtu.be/I1Wy_BWUAGM"
+        tagline: "基於 Leapmotion 控制遠距醫療 APP"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: I'm ready to fly (Granden)
+        link: "https://www.youtube.com/watch?v=Rm_1P3ugZdo&ab_channel=GranDen%E7%8B%82%E9%BB%9E"
+        tagline: "VR 音樂節奏遊戲"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#publications:
+    #title: Publications
+    #intro: |
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+    #papers:
+      - #title: 
+        #link:
+        #authors: 
+        #conference: 
 
 skills:
-    title: Skills &amp; Proficiency
+    title: 專業 & 工具
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: API, Postman
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
+      - name: PostgreSQL
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Roadmap 制定，專案管理，文件撰寫
+        level: 80%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+      - name: Google Analytics
+        level: 75%
+
+#footer: >
+    #Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
