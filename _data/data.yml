@@ -84,31 +84,30 @@ experiences:
     title: 工作經歷
     info:
       - role: Product Manager
-        time: 2021 - 在職中
+        time: 2021/2 - 在職中
         company: iStaging 愛實境
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          在 iStaging 任職期間，曾經手多項大型展會 PM 經驗，包含國際自行車展、2022 CES、新南向臺灣形象展......等等。工作內容包含需求
+          收斂，API 規格制定，PRD 撰寫，第三方工具串接評估及其他。
+
+          除了專案管理經驗外，在職期間也經歷從零規劃 3D 線上展間編輯平台 METAmakeR，負責經產品從 0 至 1 建立，經驗包含競品分析以及 Roadmap 
+          規劃。
+
+          工作期間大量使用 Postman 進行 api 測試驗證，MySQL 進行資料撈取以及 zapier 進行自動化流程整合。
+            - METAmakeR 平台
+            - CES，自行車展 PM
+            - Postman，MySQL，Zapier
+
       - role: Unity 前端工程師
-        time: 2018 - 2021
+        time: 2018/1 - 2020/11
         company: Granden 狂點軟體開發
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          在狂點軟體開發任職期間擔任 Unity 前端工程師，經手過的專案涵蓋 AR 、VR、體感互動以及展場大型展示裝置。
+          AR 部分使用過 Vuforia 以及 ARCore。VR 部分使用軟體 Unity，接觸過的硬體有 Oculus Rift 和 HTC Vive。
+          體感互動部分使用過 LeapMotion、Kinect 以及 Intel Realsense。
+            - App：Aligala，內容包含社群行銷、AR遊戲以及LBS線上線下整合功能。
+            - 緯創醫療合作製作基於 IntelRealsense 和 NuitrackSDK 老人復健體感遊戲。
+            - VR 音樂節奏遊戲：I’m ready to fly。
 projects:
     title: 專案
     intro: >
