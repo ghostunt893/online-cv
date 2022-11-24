@@ -112,7 +112,7 @@ education:
 projects:
     title: 工作專案
     intro: >
-      下列列出經手專案以及成品連結
+      專案以及成品連結
     assignments:
       - title: METAmakeR (iStaging)
         link: "https://viewer.metamaker.istaging.com/en/ff80808181233081018184d0380704fa"
